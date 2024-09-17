@@ -27,14 +27,6 @@ I'm a dedicated software engineer specializing in web technologies with a strong
 - 🔗 You can also find me on [LinkedIn](https://www.linkedin.com/in/florent-goumot-labesse/) or [CodinGame](https://www.codingame.com/profile/16dce7a9ce06287c5b04386cdfe5db149091584).
 - 📧 Reach out to me anytime at yozamu@hotmail.fr
 
-## OUTDATED
-
-- 👨‍💻 I’m currently working on a 2D tactical RPG that is [playable directly in your browser](https://sidyq.com)
-- 📜 My portfolio with all my projects and experiences is [here](https://www.fgoumot.com/)
-- 🌱 I like staying up-to-date with the React ecosystem and everything around programming in general
-- 📈 I firmly believe that remote work is the key to maximizing productivity
-- 📧 You can reach me anytime at yozamu@hotmail.fr
-
 <!--
 **Yozamu/Yozamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
