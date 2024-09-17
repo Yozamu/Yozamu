@@ -1,4 +1,39 @@
-## Hi there 👋
+## Hi, I'm Florent 👋
+
+I'm a dedicated software engineer specializing in web technologies with a strong passion for creating video games. I thrive on solving complex challenges, building dynamic user interfaces, and staying on the cutting edge of modern frameworks and tools.
+
+### What I'm focused on
+
+- 🎮 Currently developing a 2D tactical RPG. [Play it directly in your browser!](https://sidyq.com)
+- 👨‍💻 Refining my skills in web development, with a strong emphasis on **React** and **TypeScript**
+
+### Technologies I work with
+
+- 🛠️ **Languages**: JavaScript, TypeScript, SQL
+- 🔧 **Frameworks & Tools**: React, Next.js, Node.js, Prisma, Tailwind
+- ☁️ **Cloud & DevOps**: AWS (S3), Cloudflare R2, Stripe, Vercel
+- 📊 **Monitoring**: Grafana, Sentry, GameAnalytics
+- 🧪 **Testing**: Jest, Cypress, Playwright
+
+### My beliefs
+
+- 🌍 **Remote work advocate**: working remotely offers the best environment for productivity, allowing for flexibility and focus.
+- 📚 **Learning over knowing**: The ability to learn and adapt is invaluable. Continuous learning drives growth and innovation.
+- 🗣️ **Communication is key**: Clear and open dialogue helps in achieving goals and overcoming challenges.
+
+### Let's connect
+
+- 🌐 Feel free to explore my [portfolio](https://www.fgoumot.com/) for a full overview of my projects and experience
+- 🔗 You can also find me on [LinkedIn](https://www.linkedin.com/in/florent-goumot-labesse/) or [CodinGame](https://www.codingame.com/profile/16dce7a9ce06287c5b04386cdfe5db149091584).
+- 📧 Reach out to me anytime at yozamu@hotmail.fr
+
+## OUTDATED
+
+- 👨‍💻 I’m currently working on a 2D tactical RPG that is [playable directly in your browser](https://sidyq.com)
+- 📜 My portfolio with all my projects and experiences is [here](https://www.fgoumot.com/)
+- 🌱 I like staying up-to-date with the React ecosystem and everything around programming in general
+- 📈 I firmly believe that remote work is the key to maximizing productivity
+- 📧 You can reach me anytime at yozamu@hotmail.fr
 
 <!--
 **Yozamu/Yozamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
