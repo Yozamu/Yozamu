@@ -4,8 +4,13 @@ I'm a dedicated software engineer specializing in web technologies with a strong
 
 ### What I'm focused on
 
-- 🎮 Currently developing a 2D tactical RPG. [Play it directly in your browser!](https://sidyq.com)
-- 👨‍💻 Refining my skills in web development, with a strong emphasis on **React** and **TypeScript**
+🎮 Currently developing a 2D tactical RPG with web technologies. It represents:
+- Thousands of hours of work spread across several years
+- 100k+ lines of TypeScript code
+- A large infrastructure involving frontend, backend, database, cronjobs, caching, and other services
+- Lots of algorithms to handle dense gameplay mechanics
+
+You can [try it directly in your browser!](https://sidyq.com)
 
 ### Technologies I work with
 
