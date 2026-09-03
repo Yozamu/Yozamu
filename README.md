@@ -2,15 +2,13 @@
 
 I'm a dedicated software engineer specializing in web technologies with a strong passion for creating video games. I thrive on solving complex challenges, building dynamic user interfaces, and staying on the cutting edge of modern frameworks and tools.
 
-### What I'm focused on
+### The last major personal project I've worked on
 
-🎮 Currently developing a 2D tactical RPG with web technologies. It represents:
+🎮 A 2D tactical RPG with web technologies. It represents:
 - Thousands of hours of work spread across several years
 - 100k+ lines of TypeScript code
 - A large infrastructure involving frontend, backend, database, cronjobs, caching, and other services
 - Lots of algorithms to handle dense gameplay mechanics
-
-You can [try it directly in your browser!](https://sidyq.com)
 
 ### Technologies I work with
 
